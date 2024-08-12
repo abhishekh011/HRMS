@@ -1,0 +1,52 @@
+
+.appDiv{
+  position: relative;
+  width: 80%;
+  left:20%;
+
+}
+.appDiv.close{
+  border: 1px solid red;
+  position: relative;
+  width: 90%;
+  left:10%;
+}
+
+body::-webkit-scrollbar{
+  width: 0;
+}
+
+/* All Table Font Style  Start*/
+.table-td2 tr td{
+  font-size: 14px;
+  font-weight: 600;
+  color: rgba(51, 51, 51, 1);
+  align-content: center;
+ 
+}
+.table-td1 tr th{
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(102, 102, 102, 1);
+}
+/* All Table Font Style  End*/
+
+/* All label Font Start  */
+.labelFont{
+  font-size: 14px;
+  font-weight: 400;
+  color: rgba(102, 102, 102, 1);
+  font-family: Poppins;
+}
+/* All label Font End  */
+
+
+/* SignUp Page CSS */
+.signUpImageDiv1{
+  height: 300px;
+  width:350px;
+}
+.signupDiv{
+  width: 300px;
+  height: 472px;
+}

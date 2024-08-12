@@ -1,0 +1,9 @@
+
+.edit-remove {
+    font-size: 10px;
+    cursor: pointer;
+    min-width: 70px;
+    min-height: 53px;
+    right: 100px;
+    line-height: 10px;
+}

@@ -1,0 +1,24 @@
+.dashbordMaindiv{
+    width: 90%;
+    border-radius: 16px;
+    background-color: aquamarine;
+    margin-left: 5%;
+    height: 200px;
+    margin-top:8%;
+}
+.dashbordMaindivimg {
+    width: 98%;
+    height: 250px;
+    position: relative;
+    top: -48px;
+}
+.hiringDiv{
+  width: 45%;
+ margin-top: 20px;
+
+}
+.hiringInnerDiv{
+background-color:rgba(0, 0, 0, 0.1);
+box-shadow: 0 0 10px rgba(255, 0, 0, 0.1);
+border-radius: 10px;
+}

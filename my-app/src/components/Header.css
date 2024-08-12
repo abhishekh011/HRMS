@@ -1,0 +1,17 @@
+.home-content{
+    height: 70px;
+    width: 100%;
+}
+.threeToggel{
+    font-size: 40px;
+    font-weight: 100;
+}
+.profileiImage{
+    width: 80%;
+    height: 70%;
+}
+.home-content h2{
+ font-size: 30px;
+ font-weight: 600;;
+ color: rgba(51, 51, 51, 1);    
+}
